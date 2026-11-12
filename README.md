@@ -2,10 +2,6 @@
 
 Final-year engineering student at **École Centrale de Nantes** (Robotics option), in a double degree with the Lebanese University, Faculty of Engineering.
 
-I work on mobile robotics, perception and embedded systems. Looking for a **6-month end-of-studies internship in robotics starting April 2027**.
-
-**Currently building:** a SLAM and autonomous navigation pipeline for a mobile robot (ROS 2, Gazebo, LiDAR, IMU).
-
 **Tools:** ROS 2 · C++ · Python · OpenCV · Gazebo · Raspberry Pi · ESP32 · Arduino · Linux
 
 ### Selected projects
